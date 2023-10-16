@@ -1,2 +1,1 @@
-My first readme
-# holbertonschool-zero_day
+# My first reame
