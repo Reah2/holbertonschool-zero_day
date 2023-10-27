@@ -24,7 +24,7 @@ srand(time(0));
 
 /* Generate a random number and store it in n */
 
-n = rand();
+n = rand() - RAND_MAX / 2;
 
 /* Extract the last digit of n */
 
